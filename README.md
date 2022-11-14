@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @cidelab
 - 👀 I’m interested in artificial intelligence to make sustainable buildings.
-- 🌱 I’m currently learning Threejs
-- 💞️ I’m looking to collaborate on Any project to design sustainable designs
+- 🌱 I’m currently working in Laga library
+- 💞️ I’m looking to collaborate on any project to bring sustainability strategies to architectural design
 - 📫 How to reach me cdb@designemergente.com
 
 <!---
